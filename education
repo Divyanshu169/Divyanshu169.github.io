@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Education</title>	 
+<link href="stylesheet.css" rel="stylesheet">
+<head>
+<nav id="nav02"></nav>
+<div id="main">
+<body>
+<h1>What i have learnt so far(Apparently):P</h1>
+<p><strong>Schooling:</strong><br>Once a dipsite,always a dipsite!<br>prep till 9th- Studying in DPS,Gurgaon<br>9th upto 12th-DPS,Noida<br>Incidently,a gold medalist from the same</p>
+<p><br><br><br><br><div id="gta"><a href="index.html">Home</a></div><br><br><br><br><br><br><br></p>
+</body>
+<footer id="foot01">@Dshekhar.All rights reseved.</footer>
+</div>
+<script src="script.js"></script>
+</html>
