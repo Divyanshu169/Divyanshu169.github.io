@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Portfolio</title>
+   <link href="stylesheet.css" rel="stylesheet"> 
+</head>
+<nav id="nav01"></nav>
+<body>
+  <div id="main"> 
+  <h1>HI!I am Divyanshu Shekhar...</h1>
+  <h2>Here is all you should know about me:</h2>
+
+  <a href="education.html">Education</a>
+  <a href="hats.html">The many hats i have donned</a>
+  <a href="snaps.html">Some snaps of my journey so far</a>
+<p><br><br><br><br><br><br><br><br><br><br><br></p>  
+<footer id="foot01"></footer>
+  </div> 
+<script src="script.js"></script>
+</body>
+</html>
