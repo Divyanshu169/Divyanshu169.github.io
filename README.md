@@ -1,2 +1,2 @@
-Portfolio
-Hi! I am Divyanshu and this is my portfolio
+
+Hi! I am Divyanshu and this is the site for Sri Kritika Astrology
